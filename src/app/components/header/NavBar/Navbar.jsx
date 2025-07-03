@@ -1,7 +1,7 @@
 import Logo from "@/app/Logo/page";
 import Link from "next/link";
 import React from "react";
-import Login from "../../Login/page";
+import Login from "../../Login/Login";
 
 const Navbar = () => {
   return (
